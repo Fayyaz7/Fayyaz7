@@ -1,4 +1,4 @@
-![logo]("github banner.png")
+![logo]("https://github.com/Fayyaz7/Fayyaz7/blob/907832ad7cd14b7cfce374b516f9bbe2c96cdfb1/github%20banner.png")
 <h1 align="center">Hi 👋, I'm Syed Fayyaz Ali</h1>
 <h3 align="center">Passionate Full Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif"
