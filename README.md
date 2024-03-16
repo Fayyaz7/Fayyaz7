@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Fayyaz Ali</h1>
 <h3 align="center">Passionate Full Stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40obayomi96%2Ffew-tips-to-help-you-become-a-better-developer-f67618daabfd&psig=AOvVaw0j_YU1ZuyjFWPNM-rv2EVt&ust=1710672867651000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCqxKDP-IQDFQAAAAAdAAAAABAI"
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fayyaz7&label=Profile%20views&color=0e75b6&style=flat" alt="fayyaz7" /> </p>
 
